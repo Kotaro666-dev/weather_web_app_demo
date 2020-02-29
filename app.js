@@ -77,7 +77,7 @@ window.addEventListener("load", () => {
     let gradient = document.getElementById("gradient");
 
     // Variation of colours according to temperature(Farenheit)
-    switch (temperature) {
+    switch (true) {
       case temperature < 0:
         colorValue =
           "linear-gradient(to right top, #002863, #2a2f7b, #4e3490, #7434a1, #9c2fae)";
