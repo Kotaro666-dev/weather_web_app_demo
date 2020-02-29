@@ -32,17 +32,13 @@ body {
   display: flex;
   align-items: center;
   cursor: pointer;
+  font-size: 40px;
 }
 
 .degree-section span {
   margin: 10px;
-  font-size: 30px;
-}
-
-.degree-section h2 {
-  font-size: 40px;
 }
 
 .temperature-description {
-  font-size: 20px;
+  font-size: 30px;
 }
